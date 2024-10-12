@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Petit Park Informatique
+subtitle: 'PPI'
+description: 'Projet de blog via jopln (testV0)'
 keywords:
-author: John Doe
-language: en
+author: CtrlMajSup
+language: fr
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://ctrlmajsup.github.io/
 root: /
 permalink: /p/:abbrlink/
 permalink_defaults:
