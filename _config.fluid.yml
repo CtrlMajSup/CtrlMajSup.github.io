@@ -529,7 +529,8 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  # banner_img: /img/default.png
+  banner_img : /img/rm218-bb-07.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
