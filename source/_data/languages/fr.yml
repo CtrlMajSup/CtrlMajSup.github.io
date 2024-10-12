@@ -1,0 +1,70 @@
+name: 'Francais'
+
+home:
+  menu: 'Accueil'
+  title: 'Accueil'
+
+archive:
+  menu: 'Archives'
+  title: 'Archives'
+  subtitle: 'Archives'
+  post_total: '%d postes en tout'
+
+category:
+  menu: 'Categories'
+  title: 'Categories'
+  subtitle: 'Categories'
+  post_total: '%d postes en tout'
+  more: 'Plus...'
+
+tag:
+  menu: 'Tags'
+  title: 'Tags'
+  subtitle: 'Tags'
+  post_total: '%d postes en tout'
+
+about:
+  menu: 'A propos'
+  title: 'A propos'
+  subtitle: 'A propos'
+
+links:
+  menu: 'Liens'
+  title: 'Liens'
+  subtitle: 'Liens'
+
+page404:
+  menu: 'Page non trouvée'
+  title: 'Page non trouvée'
+  subtitle: 'Page non trouvée'
+
+post:
+  toc: 'Sommaire'
+  prev_post: 'Précédent'
+  next_post: 'Suivant'
+  updated: 'Dernière mise à jour le %s'
+  meta:
+    wordcount: '%s mots'
+    min2read: '%s min'
+    views: '{} Vues'
+  copyright:
+    author: 'Auteur'
+    posted: 'Publié le'
+    updated: 'Mis à jour le'
+    licensed: 'Licensed under'
+    CC: 'CC - Creative Commons license'
+    BY: 'BY - Attribution'
+    SA: 'SA - Share-alike'
+    NC: 'NC - Non-commercial'
+    ND: 'ND - No derivative works'
+    ZERO: 'CC0 - No Copyright'
+
+footer:
+  pv: 'Vues: {}'
+  uv: 'Visiteurs: {}'
+
+search:
+  title: 'Recherche'
+  keyword: 'Clavier'
+
+noscript_warning: 'Le site fonctionnera mieux si vous autorisez javascript'
