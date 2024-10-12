@@ -9,7 +9,7 @@ description: 'Projet de blog via jopln (testV0)'
 keywords:
 author: CtrlMajSup
 language: fr
-timezone: ''
+timezone: 'Europe/Paris'  # Exemple pour la France métropolitaine
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
