@@ -954,7 +954,7 @@ about:
   banner_img: /resources/background.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: /img/logo.png
+  avatar: /resources/logo.png
   name: "L'Obervateur"
   intro: "L'Observateur est un journal mouranique fondé par Ctrl, Maj et Sup en 12876. Se voulant journal « de référence » privé, il est régulièrement considéré comme tel."
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
