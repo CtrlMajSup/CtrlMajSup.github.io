@@ -513,7 +513,7 @@ index:
   # 是否显示文章信息（时间、分类、标签）
   # Meta information of post
   post_meta:
-    date: true
+    date: false # true
     category: true
     tag: true
 
@@ -549,7 +549,7 @@ post:
     # 文章日期，优先根据 front-matter 里 date 字段，其次是 md 文件日期
     # Post date, based on `date` field in front-matter, if not set, based on create date of .md file
     date:
-      enable: true
+      enable: false # true
       # 格式参照 ISO-8601 日期格式化
       # ISO-8601 date format
       # See: http://momentjs.cn/docs/#/parsing/string-format/
