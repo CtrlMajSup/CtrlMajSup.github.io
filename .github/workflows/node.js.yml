@@ -32,15 +32,11 @@ jobs:
     - name: Install dependencies
       run: npm ci
 
-    # Optionnel : lancer les tests si tu en as
-    #- name: Run tests
-    #  run: npm test
-
     - name: Build production
       run: npm run build
 
     - name: Upload production build artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v3.1.2
       with:
         name: production-build
         path: dist/
